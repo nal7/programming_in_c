@@ -5,7 +5,7 @@
 int main(void)
 {
 
-    printf("hellow ");
+    printf("hellow world! ");
     
     return o;
 
